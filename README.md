@@ -1,10 +1,10 @@
 # Learning-DL-from-the-bottom
 self-studying with a book named 「Deep Learning from Scratch」
 
-## ch1. 파이썬
-  ### 1.1 파이썬이란?
-  ### 1.2 파이썬 설치하기
-  ### 1.3 파이썬 인터프리터
+## ch1. 파이썬 https://github.com/HonorJay/Learning-DL-from-the-bottom/blob/main/ch1_1.md
+  ### 1.1 파이썬이란? https://github.com/HonorJay/Learning-DL-from-the-bottom/blob/main/ch1_1.md
+  ### 1.2 파이썬 설치하기 https://github.com/HonorJay/Learning-DL-from-the-bottom/blob/main/ch1_1.md
+  ### 1.3 파이썬 인터프리터 https://github.com/HonorJay/Learning-DL-from-the-bottom/blob/main/ch1_1.md
   ### 1.4 파이썬 스크립트 파일
   ### 1.5 넘파이
   ### 1.6 matplotlib
