@@ -11,9 +11,9 @@ self-studying with a book named 「Deep Learning from Scratch」
   ### [1.7 정리](https://github.com/HonorJay/Learning-DL-from-the-bottom/blob/main/ch1_2.md)
 
 ## ch2. 퍼셉트론
-  ### 2.1 퍼셉트론이란?
-  ### 2.2 단순한 논리 회로
-  ### 2.3 퍼셉트론 구현하기
+  ### [2.1 퍼셉트론이란?](https://github.com/HonorJay/Learning-DL-from-the-bottom/blob/main/ch2_1.md)
+  ### [2.2 단순한 논리 회로](https://github.com/HonorJay/Learning-DL-from-the-bottom/blob/main/ch2_1.md)
+  ### [2.3 퍼셉트론 구현하기](https://github.com/HonorJay/Learning-DL-from-the-bottom/blob/main/ch2_1.md)
   ### 2.4 퍼셉트론의 한계
   ### 2.5 다층 퍼셉트론이 출동한다면
   ### 2.6 NAND에서 컴퓨터까지
