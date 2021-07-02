@@ -20,9 +20,9 @@ self-studying with a book named 「Deep Learning from Scratch」
   ### [2.7 정리](https://github.com/HonorJay/Learning-DL-from-the-bottom/blob/main/ch2_2.md)
 
 ## ch3. 신경망
-  ### 3.1 퍼셉트론에서 신경망으로
-  ### 3.2 활성화 함수
-  ### 3.3 다차원 배열의 계싼
+  ### [3.1 퍼셉트론에서 신경망으로](https://github.com/HonorJay/Learning-DL-from-the-bottom/blob/main/ch3_1.md)
+  ### [3.2 활성화 함수](https://github.com/HonorJay/Learning-DL-from-the-bottom/blob/main/ch3_1.md)
+  ### 3.3 다차원 배열의 계산
   ### 3.4 3층 신경망 구현하기
   ### 3.5 출력층 설계하기
   ### 3.6 손글씨 숫자 인식
