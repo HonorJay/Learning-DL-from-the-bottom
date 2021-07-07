@@ -24,7 +24,7 @@ self-studying with a book named 「Deep Learning from Scratch」
   ### [3.2 활성화 함수](https://github.com/HonorJay/Learning-DL-from-the-bottom/blob/main/ch3_1.md)
   ### [3.3 다차원 배열의 계산](https://github.com/HonorJay/Learning-DL-from-the-bottom/blob/main/ch3_2.md)
   ### [3.4 3층 신경망 구현하기](https://github.com/HonorJay/Learning-DL-from-the-bottom/blob/main/ch3_2.md)
-  ### 3.5 출력층 설계하기
+  ### [3.5 출력층 설계하기](https://github.com/HonorJay/Learning-DL-from-the-bottom/blob/main/ch3_3.md)
   ### 3.6 손글씨 숫자 인식
   ### 3.7 정리
   
